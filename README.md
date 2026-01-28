@@ -3,18 +3,6 @@
     <img src="https://i.imgur.com/waxVImv.png" alt="Oryx Models">
 </p>
 
-#### [Hanoona Rasheed](https://www.hanoonarasheed.com/)\*, [Muhammad Maaz](https://www.mmaaz60.com)\*, [Salman Khan](https://salman-h-khan.github.io/), and [Fahad Khan](https://sites.google.com/view/fahadkhans/home)
-\* Equal contributions
-
-#### **Mohamed bin Zayed University of AI (MBZUAI)**
-
-[![Google](https://img.shields.io/badge/Google-Colab-red)](https://colab.research.google.com/drive/10Z2HaY5zvy2GZZ4v245PtiDPukm0NbF6?usp=sharing)
-[![Demo](https://img.shields.io/badge/Online-Demo-F9D371)](https://bengal-eminent-wasp.ngrok-free.app)
-[![Demo](https://img.shields.io/badge/HF_Demo-LLaMA_3-0FFFFF.svg)](https://huggingface.co/spaces/MBZUAI/LLaMA-3-V)
-[![Demo](https://img.shields.io/badge/HF_Demo-Phi_3-0FFFFF.svg)](https://huggingface.co/spaces/MBZUAI/Phi-3-V)
-
----
-
 ## 📢 Latest Updates
 - **Apr-30-24**- LLaMA-3-V and Phi-3-V demos are now available via Hugging Face Spaces. Check them out at [LLaMA-3-V](https://huggingface.co/spaces/MBZUAI/LLaMA-3-V) &  [Phi-3-V](https://huggingface.co/spaces/MBZUAI/Phi-3-V) 🔥🔥🔥
 - **Apr-28-24**- Online demo of Phi-3-V and LLaMA-3-V are released, check them out at [Online Demo](https://bengal-eminent-wasp.ngrok-free.app) 🔥🔥🔥
@@ -135,22 +123,3 @@ bash LLaMA3-V_finetune_lora.sh
 ```
 
 ---
-## 🙏 Acknowledgement
-We are thankful to [LLaVA](https://github.com/haotian-liu/LLaVA.git), [lmms-eval](https://github.com/EvolvingLMMs-Lab/lmms-eval.git) and [S<sup>2</sup>-Wrapper](https://github.com/bfshi/scaling_on_scales.git) for releasing their models and code as open-source contributions.
-
-In case if you face any issues or have any questions, please feel free to create an issue or reach out at [hanoona.bangalath@mbzuai.ac.ae](hanoona.bangalath@mbzuai.ac.ae) & [muhammad.maaz@mbzuai.ac.ae](muhammad.maaz@mbzuai.ac.ae).
-
-## 📜 Citation
-```bibtex
-  @misc{hanoona2024LLaVA++,
-          title={LLaVA++: Extending Visual Capabilities with LLaMA-3 and Phi-3},
-          author={Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad S.},
-          url={https://github.com/mbzuai-oryx/LLaVA-pp},
-          year={2024}
-  }
-```
-
----
-[<img src="images/logos/IVAL_logo.png" width="200" height="100">](https://www.ival-mbzuai.com)
-[<img src="images/logos/Oryx_logo.png" width="100" height="100">](https://github.com/mbzuai-oryx)
-[<img src="images/logos/MBZUAI_logo.png" width="360" height="85">](https://mbzuai.ac.ae)
