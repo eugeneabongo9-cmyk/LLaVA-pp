@@ -1,9 +1,8 @@
-# Resume — [Your Name]
+
 
 ## 🚀 Project: LLaVA-pp (LLaVA++ Extension)
-**Repository:** https://github.com/mbzuai-oryx/LLaVA-pp :contentReference[oaicite:1]{index=1}  
-**Role:** [Your role, e.g., Developer / Contributor / Researcher]  
-**Duration:** [Dates you worked on it]
+**Repository:** https://github.com/hectorr-st/LLaVA-pp :contentReference[oaicite:1]{index=1}  
+**Role:** Developer 
 
 ### 🧠 Project Summary
 LLaVA-pp (also called LLaVA++) enhances the popular LLaVA multimodal model by integrating newer base LLMs such as Phi-3 and LLaMA-3, expanding visual-language capabilities and performance. :contentReference[oaicite:2]{index=2}
